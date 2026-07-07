@@ -1,0 +1,14 @@
+import java.util.Scanner;
+
+public class age {
+    public static void main(String[] args) {
+        Scanner obj = new Scanner(System.in);
+        System.out.println("Enter your Age:");
+        int age = obj.nextInt();
+        if (age >= 18) {
+            System.out.println("Adult");
+        } else {
+            System.out.println("Not Adult");
+        }
+    }
+}
