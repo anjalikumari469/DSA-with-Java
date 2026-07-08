@@ -9,6 +9,6 @@ public class problem8 {
                 largest = arr[i];
             }
         }
-        System.out.println("Largest number is:" + largest);
+        System.out.println("Largest element is:" + largest);
     }
 }

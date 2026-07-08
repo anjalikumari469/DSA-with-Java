@@ -1,5 +1,5 @@
 
-//
+// Take a matrix input through user and print the matrix 
 import java.util.Scanner;
 
 public class problem1 {

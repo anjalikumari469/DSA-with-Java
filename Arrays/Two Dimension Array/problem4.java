@@ -1,4 +1,4 @@
-//
+//print elements of 2D array.
 public class problem4 {
     public static void main(String[] args) {
         int[][] arr = {

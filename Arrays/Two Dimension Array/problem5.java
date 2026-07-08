@@ -1,4 +1,4 @@
-//Find the sum of matrix
+//Find the sum of matrix.
 
 import java.util.Scanner;
 
