@@ -1,0 +1,11 @@
+// substrings
+
+public class problem4 {
+
+    public static void main(String[] args) {
+        String sentence = "My name is Anjali Kumari";
+        String name = sentence.substring(11, sentence.length());
+        System.out.println(name);
+    }
+    
+}
