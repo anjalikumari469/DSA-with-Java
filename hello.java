@@ -4,4 +4,3 @@ public class hello {
         // output
         System.out.println("Hello World");
     }
-}
