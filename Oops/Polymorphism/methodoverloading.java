@@ -15,7 +15,7 @@ class Student {
     }
 }
 
-public class problem1 {
+public class methodoverloading {
     public static void main(String[] args) {
         Student s1 = new Student();
         s1.name = "Anjali";
